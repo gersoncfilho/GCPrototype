@@ -7,4 +7,5 @@
     <color name="azul_escuro">#004B8D</color>
     <color name="azul_claro">#0067C2</color>
     <color name="black">#000000</color>
+    <color name="quase_branco">#eeeeee</color>
 </resources>

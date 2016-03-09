@@ -18,7 +18,9 @@
     <string name="error_field_required">Campo obrigatório</string>
     <string name="permission_rationale">"Permissão de acesso a contatos são necessárias."
     </string>
-    <string name="esqueci_senha">Esqueci a senha</string>
-    <string name="texto_login_registro">Primeiro acesso? Cadastre-se aqui.</string>
+    <string name="btn_esqueci">Esqueci a senha</string>
+    <string name="texto_login_registro">Primeiro acesso? \nSolicite sua senha através do Portal Golden Cross \nWWW.GOLDENCROSS.COM.BR</string>
     <string name="texto_botao_registrar">Registrar</string>
+    <string name="matricula">Matrícula</string>
+    <string name="btn_entrar">Entrar</string>
 </resources>
